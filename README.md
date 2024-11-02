@@ -6,13 +6,17 @@
 - **R&D Software and DevOps Intern, Keysight Technologies (June 2024 - Present)**: Created an image generation system for deploying customized Windows instances and streamlined build promotions using REST API, Jenkins, and JFrog Artifactory.
 - 📫 How to reach me: [[My LinkedIn](https://www.linkedin.com/in/madeline-miller/)]
 
-
 ## 💻 Featured Projects
 
 ### [Deep Learning Course Scheduler (Sept. 2024 - June 2024)](https://github.com/MadelineMiller/ml-course-scheduler)
 - **Impact**: Reduced manual scheduling time by 60%.
 - **Description**: Developed an AI-driven course scheduling system that integrated RateMyProfessor reviews, prerequisites, and major requirements.
 - **Technologies Used**: Deep learning (neural networks), sentiment analysis, Python.
+
+### AI-Driven Financial News Analysis Agent (Aug. 2024 - Present)
+- **Impact**: Improved stock price prediction accuracy through effective news summarization and financial sentiment analysis.
+- **Description**: Developed an AI-driven agent that analyzes financial news articles using NLP and deep learning to predict stock price impacts. The project was part of Cornell University's Break Through Tech's AI Studio program.
+- **Technologies Used**: NLP, deep learning, Python, predictive modeling.
 
 ### [Keysight AI-Based Plugin Generation Project (Jan. 2024 - June 2024)](https://github.com/aajoseph-dev/UCSC-Keysight)
 - **Impact**: Decreased plugin development time by 75%.
