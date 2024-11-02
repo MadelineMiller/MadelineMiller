@@ -37,7 +37,7 @@
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadelineMiller&show_icons=true&hide=stars&theme=radical&hide_title=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadelineMiller&show_icons=true&hide=stars&theme=radical&hide_title=true&count_private=true&include_all_commits=true)
 
 ## Interests or Hobbies
 
