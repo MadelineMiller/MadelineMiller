@@ -41,6 +41,13 @@
 
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MadelineMiller&theme=radical)
 
+![Contribution Graph](https://github-profile-summary.vercel.app/api?username=MadelineMiller&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadelineMiller&theme=radical)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadelineMiller&show_icons=true&hide=stars&theme=radical&hide_title=true&count_private=true&include_all_commits=true)
+
+
 
 ## Interests or Hobbies
 
