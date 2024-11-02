@@ -65,11 +65,16 @@
 - **Description**: Led the development of a full-stack web application for real-time collaborative note-sharing.
 - **Technologies Used**: Dart, Flutter, Firebase.
 
+## 🌟 Extracurriculars & Interests
 
+### Vice President, Girls Who Code Club, UC Santa Cruz (May 2024 - Present)
+- **Workshop Leadership**: Hosted a technical workshop featuring Google engineers, successfully engaging over 150 members and receiving positive feedback through meticulous planning and seamless execution.
+- **Membership Growth**: Achieved a 25% increase in club membership by strategically facilitating professional development workshops, networking events, and team-building activities.
 
-## Interests & Hobbies
-- 🏃‍♀️ Running
-- 🐶 Spending time with my pugs
-- 🌊 Scuba diving
+### Hobbies & Personal Interests
+- 🏃‍♀️ **Running**: Passionate about staying active and participating in local runs.
+- 🐶 **Pug Enthusiast**: Enjoy spending quality time with my adorable pugs, fostering a joyful home environment.
+- 🌊 **Scuba Diving**: Love exploring the underwater world and experiencing marine life firsthand.
+
 
 Thanks for stopping by! 😊
