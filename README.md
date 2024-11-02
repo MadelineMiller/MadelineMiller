@@ -36,6 +36,9 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadelineMiller&show_icons=true&hide=stars&theme=radical)
+
 ## Interests or Hobbies
 
 Thanks for stopping by! 😊
