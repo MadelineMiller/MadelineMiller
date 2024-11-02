@@ -6,29 +6,6 @@
 - **R&D Software and DevOps Intern, Keysight Technologies (June 2024 - Present)**: Created an image generation system for deploying customized Windows instances and streamlined build promotions using REST API, Jenkins, and JFrog Artifactory.
 - 📫 How to reach me: [[My LinkedIn](https://www.linkedin.com/in/madeline-miller/)]
 
-## 💻 Featured Projects
-
-### [Deep Learning Course Scheduler (Sept. 2024 - June 2024)](https://github.com/MadelineMiller/ml-course-scheduler)
-- **Impact**: Reduced manual scheduling time by 60%.
-- **Description**: Developed an AI-driven course scheduling system that integrated RateMyProfessor reviews, prerequisites, and major requirements.
-- **Technologies Used**: Deep learning (neural networks), sentiment analysis, Python.
-
-### AI-Driven Financial News Analysis Agent (Aug. 2024 - Present)
-- **Impact**: Improved stock price prediction accuracy through effective news summarization and financial sentiment analysis.
-- **Description**: Developed an AI-driven agent that analyzes financial news articles using NLP and deep learning to predict stock price impacts. The project was part of Cornell University's Break Through Tech's AI Studio program.
-- **Technologies Used**: NLP, deep learning, Python, predictive modeling.
-
-### [Keysight AI-Based Plugin Generation Project (Jan. 2024 - June 2024)](https://github.com/aajoseph-dev/UCSC-Keysight)
-- **Impact**: Decreased plugin development time by 75%.
-- **Description**: Created an automated system for generating AI-based plugins to connect instruments to OpenTAP.
-- **Technologies Used**: Azure AI, OpenAI API, Python, Langchain.
-
-### [Collaborative Note Sharing Web App (Sept. 2023 - Dec. 2023)](https://github.com/acolloredo/PostNote)
-- **Impact**: Achieved a 95% user satisfaction rate.
-- **Description**: Led the development of a full-stack web application for real-time collaborative note-sharing.
-- **Technologies Used**: Dart, Flutter, Firebase.
-
-## 🛠️ Languages and Tools
 ## 🛠️ Languages and Tools
 
 ### Programming Languages
@@ -65,6 +42,29 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoftwindows&logoColor=white)
+
+## 💻 Featured Projects
+
+### [Deep Learning Course Scheduler (Sept. 2024 - June 2024)](https://github.com/MadelineMiller/ml-course-scheduler)
+- **Impact**: Reduced manual scheduling time by 60%.
+- **Description**: Developed an AI-driven course scheduling system that integrated RateMyProfessor reviews, prerequisites, and major requirements.
+- **Technologies Used**: Deep learning (neural networks), sentiment analysis, Python.
+
+### AI-Driven Financial News Analysis Agent (Aug. 2024 - Present)
+- **Impact**: Improved stock price prediction accuracy through effective news summarization and financial sentiment analysis.
+- **Description**: Developed an AI-driven agent that analyzes financial news articles using NLP and deep learning to predict stock price impacts. The project was part of Cornell University's Break Through Tech's AI Studio program.
+- **Technologies Used**: NLP, deep learning, Python, predictive modeling.
+
+### [Keysight AI-Based Plugin Generation Project (Jan. 2024 - June 2024)](https://github.com/aajoseph-dev/UCSC-Keysight)
+- **Impact**: Decreased plugin development time by 75%.
+- **Description**: Created an automated system for generating AI-based plugins to connect instruments to OpenTAP.
+- **Technologies Used**: Azure AI, OpenAI API, Python, Langchain.
+
+### [Collaborative Note Sharing Web App (Sept. 2023 - Dec. 2023)](https://github.com/acolloredo/PostNote)
+- **Impact**: Achieved a 95% user satisfaction rate.
+- **Description**: Led the development of a full-stack web application for real-time collaborative note-sharing.
+- **Technologies Used**: Dart, Flutter, Firebase.
+
 
 
 ## Interests & Hobbies
