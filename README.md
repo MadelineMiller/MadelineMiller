@@ -29,26 +29,47 @@
 - **Technologies Used**: Dart, Flutter, Firebase.
 
 ## 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
+
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-EA3A30?style=for-the-badge&logo=matlab&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Haskell](https://img.shields.io/badge/Haskell-5E5086?style=for-the-badge&logo=haskell&logoColor=white)
+![RISC-V Assembly](https://img.shields.io/badge/RISC-V-1F7A1D?style=for-the-badge&logo=riscv&logoColor=white)
+
+### Other Technologies
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0E4C92?style=for-the-badge&logo=langchain&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-4A90E2?style=for-the-badge&logo=none&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Scrum/Agile](https://img.shields.io/badge/Scrum/Agile-0E4C92?style=for-the-badge&logo=none&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-0078D4?style=for-the-badge&logo=none&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-9E6AB6?style=for-the-badge&logo=none&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFB74D?style=for-the-badge&logo=none&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-## 📈 GitHub Stats
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=MadelineMiller&theme=radical)
-
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=MadelineMiller&theme=radical)
-
-![Contribution Graph](https://github-profile-summary.vercel.app/api?username=MadelineMiller&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MadelineMiller&theme=radical)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadelineMiller&show_icons=true&hide=stars&theme=radical&hide_title=true&count_private=true&include_all_commits=true)
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=microsoftwindows&logoColor=white)
 
 
-
-## Interests or Hobbies
+## Interests & Hobbies
+- 🏃‍♀️ Running
+- 🐶 Spending time with my pugs
+- 🌊 Scuba diving
 
 Thanks for stopping by! 😊
