@@ -1,7 +1,9 @@
 # Hi there, I'm Madeline! 👋
 
 ## 🚀 About Me
-I'm currently pursuing a Bachelor of Science in Computer Science at the University of California, Santa Cruz (Sept. 2021 – March 2025). I'm passionate about building innovative solutions with a focus on AI-driven and full-stack projects.
+- **AI Studio Fellow, JP Morgan Chase (Aug. 2024 - Present)**: Developed an AI-driven financial news analysis agent to predict stock price impacts using NLP, deep learning, and predictive modeling as part of Cornell University's Break Through Tech's AI Studio program.
+- **R&D Software and DevOps Intern, Keysight Technologies (June 2024 - Present)**: Created an image generation system for deploying customized Windows instances and streamlined build promotions using REST API, Jenkins, and JFrog Artifactory.
+- **Vice President, Girls Who Code Club, UC Santa Cruz (May 2024 - Present)**: Increased club engagement by 25% through workshops and events, including a Google engineer-led workshop attended by 150+ members.
 
 - 🔭 I’m currently focused on AI and machine learning projects.
 - 💬 Ask me about AI development, full-stack engineering, and best practices in software design.
