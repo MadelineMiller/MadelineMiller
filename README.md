@@ -9,17 +9,17 @@
 
 ## 💻 Featured Projects
 
-### Deep Learning Course Scheduler (Sept. 2024 - June 2024)
+### [Deep Learning Course Scheduler (Sept. 2024 - June 2024)](https://github.com/MadelineMiller/ml-course-scheduler)
 - **Impact**: Reduced manual scheduling time by 60%.
 - **Description**: Developed an AI-driven course scheduling system that integrated RateMyProfessor reviews, prerequisites, and major requirements.
 - **Technologies Used**: Deep learning (neural networks), sentiment analysis, Python.
 
-### Keysight AI-Based Plugin Generation Project (Jan. 2024 - June 2024)
+### [Keysight AI-Based Plugin Generation Project (Jan. 2024 - June 2024)](https://github.com/aajoseph-dev/UCSC-Keysight)
 - **Impact**: Decreased plugin development time by 75%.
 - **Description**: Created an automated system for generating AI-based plugins to connect instruments to OpenTAP.
 - **Technologies Used**: Azure AI, OpenAI API, Python, Langchain.
 
-### Collaborative Note Sharing Web App (Sept. 2023 - Dec. 2023)
+### [Collaborative Note Sharing Web App (Sept. 2023 - Dec. 2023)](https://github.com/acolloredo/PostNote)
 - **Impact**: Achieved a 95% user satisfaction rate.
 - **Description**: Led the development of a full-stack web application for real-time collaborative note-sharing.
 - **Technologies Used**: Dart, Flutter, Firebase.
