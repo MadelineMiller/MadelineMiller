@@ -4,6 +4,7 @@
 - **Computer Science B.S., University of California, Santa Cruz** (Sept. 2021 – March 2025)
 - **AI Studio Fellow, JP Morgan Chase (Aug. 2024 - Present)**: Developed an AI-driven financial news analysis agent to predict stock price impacts using NLP, deep learning, and predictive modeling.
 - **R&D Software and DevOps Intern, Keysight Technologies (June 2024 - Present)**: Created an image generation system for deploying customized Windows instances and streamlined build promotions using REST API, Jenkins, and JFrog Artifactory.
+- Check out my personal website to learn more about me: [[My Website](https://madelinemiller.github.io/)]
 - 📫 How to reach me: [[My LinkedIn](https://www.linkedin.com/in/madeline-miller/)]
 
 ## 🛠️ Languages and Tools
