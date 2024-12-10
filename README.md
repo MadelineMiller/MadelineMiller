@@ -51,7 +51,7 @@
 - **Description**: Developed an AI-driven course scheduling system that integrated RateMyProfessor reviews, prerequisites, and major requirements.
 - **Technologies Used**: Deep learning (neural networks), sentiment analysis, Python.
 
-### AI-Driven Financial News Analysis Agent (Aug. 2024 - Present)
+### [AI-Driven Financial News Analysis Agent (Aug. 2024 - Present)](https://github.com/NDriDiby/AI-ML-Studio)
 - **Impact**: Improved stock price prediction accuracy through effective news summarization and financial sentiment analysis.
 - **Description**: Developed an AI-driven agent that analyzes financial news articles using NLP and deep learning to predict stock price impacts. The project was part of Cornell University's Break Through Tech's AI Studio program.
 - **Technologies Used**: NLP, deep learning, Python, predictive modeling.
