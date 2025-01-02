@@ -51,7 +51,7 @@
 - **Description**: Developed an AI-driven course scheduling system that integrated RateMyProfessor reviews, prerequisites, and major requirements.
 - **Technologies Used**: Deep learning (neural networks), sentiment analysis, Python.
 
-### [NLP-based Book Recommendation System (Jan. 2025 - Apr. 2025)](https://github.com/username/nlp-book-recommendation-system)
+### [NLP-based Book Recommendation System (Sept. 2024 - Dec. 2024)](https://github.com/MadelineMiller/nlp-book-recommendations)
 - **Impact**: Reduced book discovery time by 70%.
 - **Description**: Built a content-based recommendation system that involved data cleaning & tokenization, feature engineering (top words per genre, log ratings, binary encoding, TF-IDF, sentiment analysis), and TF-IDF cosine similarity. Integrated a Next.js + FastAPI interface and evaluated via user feedback and comparative testing.
 - **Technologies Used**: Python, FastAPI, Next.js, TF-IDF, sentiment analysis, cosine similarity.
