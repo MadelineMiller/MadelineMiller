@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 - **Computer Science B.S., University of California, Santa Cruz** (Sept. 2021 – March 2025)
-- **AI Studio Fellow, JP Morgan Chase (Aug. 2024 - Present)**: Developed an AI-driven financial news analysis agent to predict stock price impacts using NLP, deep learning, and predictive modeling.
 - **R&D Software and DevOps Intern, Keysight Technologies (June 2024 - Present)**: Created an image generation system for deploying customized Windows instances and streamlined build promotions using REST API, Jenkins, and JFrog Artifactory.
+- **AI Studio Fellow, JP Morgan Chase (Aug. 2024 - Dec. 2024)**: Developed an AI-driven financial news analysis agent to predict stock price impacts using NLP, deep learning, and predictive modeling.
 - Check out my personal website to learn more about me: [[My Website](https://madelinemiller.github.io/)]
 - 📫 How to reach me: [[My LinkedIn](https://www.linkedin.com/in/madeline-miller/)]
 
@@ -46,12 +46,17 @@
 
 ## 💻 Featured Projects
 
-### [Deep Learning Course Scheduler (Sept. 2024 - June 2024)](https://github.com/MadelineMiller/ml-course-scheduler)
+### [Deep Learning Course Scheduler (Sept. 2024 - Dec. 2024)](https://github.com/MadelineMiller/ml-course-scheduler)
 - **Impact**: Reduced manual scheduling time by 60%.
 - **Description**: Developed an AI-driven course scheduling system that integrated RateMyProfessor reviews, prerequisites, and major requirements.
 - **Technologies Used**: Deep learning (neural networks), sentiment analysis, Python.
 
-### [AI-Driven Financial News Analysis Agent (Aug. 2024 - Present)](https://github.com/NDriDiby/AI-ML-Studio)
+### [NLP-based Book Recommendation System (Jan. 2025 - Apr. 2025)](https://github.com/username/nlp-book-recommendation-system)
+- **Impact**: Reduced book discovery time by 70%.
+- **Description**: Built a content-based recommendation system that involved data cleaning & tokenization, feature engineering (top words per genre, log ratings, binary encoding, TF-IDF, sentiment analysis), and TF-IDF cosine similarity. Integrated a Next.js + FastAPI interface and evaluated via user feedback and comparative testing.
+- **Technologies Used**: Python, FastAPI, Next.js, TF-IDF, sentiment analysis, cosine similarity.
+
+### [AI-Driven Financial News Analysis Agent (Aug. 2024 - Dec. 2024)](https://github.com/NDriDiby/AI-ML-Studio)
 - **Impact**: Improved stock price prediction accuracy through effective news summarization and financial sentiment analysis.
 - **Description**: Developed an AI-driven agent that analyzes financial news articles using NLP and deep learning to predict stock price impacts. The project was part of Cornell University's Break Through Tech's AI Studio program.
 - **Technologies Used**: NLP, deep learning, Python, predictive modeling.
@@ -68,9 +73,13 @@
 
 ## 🌟 Extracurriculars & Interests
 
-### Vice President, Girls Who Code Club, UC Santa Cruz (May 2024 - Present)
+### Vice President, Girls Who Code Club, UC Santa Cruz (May 2024 - Dec. 2024)
 - **Workshop Leadership**: Hosted a technical workshop featuring Google engineers, successfully engaging over 150 members and receiving positive feedback through meticulous planning and seamless execution.
 - **Membership Growth**: Achieved a 25% increase in club membership by strategically facilitating professional development workshops, networking events, and team-building activities.
+
+### Resident Assistant for Rachel Carson College, UC Santa Cruz (Sept. 2023 - Present)
+- **Leadership & Mentorship**: Fostered responsible behavior amongst ~40 residents, as assessed by observing a decrease in rule infractions, through continual mentorship, conflict mediation, and peer counseling with the residents.
+
 
 ### Hobbies & Personal Interests
 - 🏃‍♀️ **Running**: Passionate about staying active and participating in local runs.
