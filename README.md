@@ -17,6 +17,20 @@
 </div>
   
 - **Computer Science B.S., University of California, Santa Cruz** (Sept. 2021 – March 2025)
+
+<div align="center">
+  <table border="0" style="border-collapse: separate; border-spacing: 30px;">
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="images/ucsc-logo.png" alt="Argonne National Laboratory Logo" height="200" width="200" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08); border: 2px solid #e5e7eb;"/>
+      </td>
+      <td align="center" style="border: none;">
+        <img src="images/baskin-engineering.png" alt="Advanced Photon Source" height="200" width="200" style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08); border: 2px solid #e5e7eb;"/>
+      </td>
+    </tr>
+  </table>
+</div>
+  
 - **R&D Software and DevOps Intern, Keysight Technologies (June 2024 - March 2025)**: Created an image generation system for deploying customized Windows instances and streamlined build promotions using REST API, Jenkins, and JFrog Artifactory.
 - **AI Studio Fellow, JP Morgan Chase (Aug. 2024 - Dec. 2024)**: Developed an AI-driven financial news analysis agent to predict stock price impacts using NLP, deep learning, and predictive modeling.
 - Check out my personal website to learn more about me: [[My Website](https://madelinemiller.github.io/)]
