@@ -3,8 +3,6 @@
 ## 🚀 About Me
 - **Software Engineer, Argonne National Laboratory (June 2025 - Current)**: Scientific Software Engineering & Data Management at the Advance Photon Source under the X-ray Science Division
 
-<br>
-
 <div align="center">
   <table border="0" style="border-collapse: separate; border-spacing: 30px;">
     <tr>
