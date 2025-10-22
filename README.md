@@ -78,14 +78,14 @@
 - **Workshop Leadership**: Hosted a technical workshop featuring Google engineers, successfully engaging over 150 members and receiving positive feedback through meticulous planning and seamless execution.
 - **Membership Growth**: Achieved a 25% increase in club membership by strategically facilitating professional development workshops, networking events, and team-building activities.
 
-### Resident Assistant for Rachel Carson College, UC Santa Cruz (Sept. 2023 - Present)
+### Resident Assistant for Rachel Carson College, UC Santa Cruz (Sept. 2023 - March 2025)
 - **Leadership & Mentorship**: Fostered responsible behavior amongst ~40 residents, as assessed by observing a decrease in rule infractions, through continual mentorship, conflict mediation, and peer counseling with the residents.
 
 
 ### Hobbies & Personal Interests
-- 🏃‍♀️ **Running**: Passionate about staying active and participating in local runs.
-- 🐶 **Pug Enthusiast**: Enjoy spending quality time with my adorable pugs, fostering a joyful home environment.
-- 🌊 **Scuba Diving**: Love exploring the underwater world and experiencing marine life firsthand.
+- 🏃‍♀️ **Running**: Love running
+- 🐶 **Dog Enthusiast**: Enjoy spending quality time with my dog!
+- 🌊 **Scuba Diving**: Love exploring the underwater
 
 
 ***Thanks for stopping by! 😊***
